@@ -12,7 +12,7 @@ GTFS-Flex is a proposed extension to the [General Transit Feed Specification](ht
 
 The below shows updated and added files in GTFS-Flex, compared to the current GTFS (original diagram is [here](https://docs.google.com/drawings/d/1g1kuTZPLFphMa942htywksIhxXqM_mMFCROOiEw5eNo/edit?usp=sharing)).
 
-![Diagram of added files in GTFS-Flex](spec/GTFS_GTFS-flex_2.1_Schema_Diagram.png)
+![Diagram of added files in GTFS-Flex](spec/GTFS_GTFS-flex_v2_Schema_Diagram.png)
 
 ### Example Flex v2 Feeds
 [Example 1](spec/Flex_v2_Example_1.zip)<br>[Example 2](spec/Flex_v2_Example_2.zip)<br>[Example 3](spec/Flex_v2_Example_3.zip)
